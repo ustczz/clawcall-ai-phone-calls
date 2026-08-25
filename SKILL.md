@@ -27,6 +27,8 @@ Ask OpenClaw to call a restaurant, contact customer service, make an appointment
 calls. ClawCall gives the Agent a real phone identity and returns call status, transcript, summary,
 recording URL, duration, and credits charged. Base URL: <https://agent.clawcall.cc>.
 
+For product help, billing questions, or problem reports, email <gtoadio@gmail.com>.
+
 ## Use this Skill when
 
 - The user says "make a call", "call this business", "book by phone", "call customer service", or

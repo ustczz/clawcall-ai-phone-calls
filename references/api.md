@@ -53,4 +53,4 @@ Call body fields:
 - `502` / `503`: upstream provider unavailable or not configured.
 
 The client uses bounded timeouts and structured JSON. It does not automatically repeat a call.
-Support: `support@clawcall.cc`.
+Support: `gtoadio@gmail.com`.
