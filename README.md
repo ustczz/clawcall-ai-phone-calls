@@ -1,11 +1,14 @@
 # ClawCall - AI Phone Calls for OpenClaw
 
+<!-- markdownlint-disable MD013 -->
+
 Give your OpenClaw agent a real phone workflow. Ask it to call a business, book by phone, contact
 customer service, schedule a follow-up, or act as an AI receptionist. ClawCall returns the outcome,
 transcript, summary, recording, duration, and cost.
 
 [Install from ClawHub](https://clawhub.ai/ustczz/skills/clawcall-ai-phone-calls) |
-[Open ClawCall](https://agent.clawcall.cc) |
+[Open ClawCall](https://agent.clawcall.cc/?utm_source=github&utm_medium=repository&utm_campaign=clawcall-global-v101&utm_content=readme-primary) |
+[Read the complete guide](docs/openclaw-ai-phone-call-guide.md) |
 [Email support](mailto:gtoadio@gmail.com)
 
 ## Install
@@ -52,7 +55,8 @@ cost before it can run.
 ```
 
 See [`SKILL.md`](SKILL.md) for the complete agent workflow and [`references/api.md`](references/api.md)
-for the API contract.
+for the API contract. The [AI phone call guide](docs/openclaw-ai-phone-call-guide.md) covers setup,
+booking, customer-service, scheduled-call, and AI receptionist workflows end to end.
 
 ## International and mainland China routing
 
